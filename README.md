@@ -26,10 +26,15 @@ Education
 Skills
 --------------------
 -c
+
 -c++
+
 -java
+
 -python
+
 -web technology
+
 -git and github
 
 
