@@ -36,7 +36,7 @@ Certifications
 -------------------
 -successfully completed **python programming** in udemy
 -successfully completed **iot**
--successfully completed ** git & github**
+-successfully completed ** git & github** in workshop
 
 Personal Information
 -------------------
